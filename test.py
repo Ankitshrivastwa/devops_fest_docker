@@ -1,2 +1,2 @@
-class Test1:
+class Test1123:
     pass
